@@ -50,12 +50,6 @@ A powerful and intuitive Streamlit application that allows you to **upload multi
 
 ---
 
-## 📸 UI Preview
-
-![Preview Screenshot](screenshot.png)
-
----
-
 ## 🧠 How It Works
 
 1. Upload PDFs ➜ Each file is split and embedded.
